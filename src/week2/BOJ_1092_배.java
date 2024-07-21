@@ -28,8 +28,8 @@ public class BOJ_1092_배 {
         crane.sort(Collections.reverseOrder());
         box.sort(Collections.reverseOrder());
 
-        System.out.println(crane);
-        System.out.println(box);
+//        System.out.println(crane);
+//        System.out.println(box);
 
         if(crane.get(0) < box.get(0)){
             System.out.println("-1");
